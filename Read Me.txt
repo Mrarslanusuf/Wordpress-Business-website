@@ -1,0 +1,17 @@
+Hello Every one! 
+This is a Professional business website created using Wordpress. This website is created on localhost so you can easily
+use this site in your commercial project or make business website for your clients.
+
+follow the steps to run this project:
+
+1. download this project and extract 
+2. start your xampp/wamp server and paste this downlaoded folder in your xammp htdocs folder
+3. opem web browser and type localhost/phpmyadmin
+4. create a database name "business_site" and then click on import then choose the database file from downloaded folder
+5. open download folder and then open database folder you find a file name "business_site.sql" (simply upload this file)
+6. click on go button from given below
+7. open new tab and type localhost/business website
+8. press enter 
+9. all done Enjoy Business Professional website 
+
+If you like my work kinldy give me a star Thanks!

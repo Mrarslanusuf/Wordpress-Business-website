@@ -1,0 +1,90 @@
+
+Inserted WP Form 6
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#000000","link-color":"#ff770f","theme-color":"#ff770f","link-h-color":"#000000","footer-bg-obj":{"background-color":"rgba(8,12,17,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"","footer-link-color":"","footer-link-h-color":"","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"#ffffff","button-h-color":"#141414","button-bg-color":"#ff770f","button-bg-h-color":"#ff8800","theme-button-padding":{"desktop":{"top":"16","right":"40","bottom":"16","left":"40"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":30,"theme-button-border-group-border-size":{"top":"","right":"","bottom":"","left":""},"footer-sml-layout":"footer-sml-layout-1","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-section-2":"","footer-sml-section-2-credit":"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"content","ast-header-retina-logo":"","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"132","tablet":"","mobile":"130"},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":0,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"button","header-display-outside-menu":false,"header-main-rt-section-html":"","header-main-rt-section-button-text":"Reservation","header-main-rt-section-button-link":"#","header-main-rt-section-button-link-option":{"url":"https:\/\/www.wpastra.com","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":1,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Raleway', sans-serif","body-font-variant":"400","body-font-weight":"400","font-size-body":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"1.7","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Raleway', sans-serif","headings-font-weight":"400","headings-text-transform":"","headings-line-height":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"64","tablet":"58","mobile":"44","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"43","tablet":"40","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"24","tablet":"28","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"22","tablet":"22","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"20","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"18","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":false,"mobile-header-toggle-target":"icon","transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":0,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"'Berkshire Swash', handwriting","font-weight-h1":"400","text-transform-h1":"","line-height-h1":"","font-family-h2":"'Berkshire Swash', handwriting","font-weight-h2":"400","text-transform-h2":"","line-height-h2":"","font-family-h3":"'Raleway', sans-serif","font-weight-h3":"600","text-transform-h3":"","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":"1","theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.3.2","theme-auto-version":"2.3.1","button-v-padding":14,"different-mobile-logo":false,"mobile-header-toggle-btn-style-color":"#ff770f","mobile-header-toggle-btn-border-radius":3,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"is_addon_queue_running":true,"heading-base-color":"#0a0a0a","is_astra_addon_queue_running":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/283/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":2,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":4,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 5 - page - Home
+Inserted - Post 10 - page - About Us
+Inserted - Post 11 - page - Menu
+Inserted - Post 12 - page - Contact
+Inserted - Post 17 - nav_menu_item - 
+Inserted - Post 18 - nav_menu_item - 
+Inserted - Post 19 - nav_menu_item - 
+Inserted - Post 20 - nav_menu_item - 
+Inserted - Post 68 - attachment - quotes2-free-img
+Inserted - Post 86 - attachment - frill-free-img
+Inserted - Post 89 - attachment - knife-free-imge
+Inserted - Post 90 - attachment - fork-free-img
+Inserted - Post 92 - attachment - divider-free-img
+Inserted - Post 107 - attachment - leaf-free-img
+Inserted - Post 130 - attachment - pic28-free-img
+Inserted - Post 141 - attachment - pic34-free-img
+Inserted - Post 143 - attachment - 5stars-free-img
+Inserted - Post 170 - attachment - pic39-free-img
+Inserted - Post 172 - attachment - pic41-free-img
+Inserted - Post 175 - attachment - pic42-free-img
+Inserted - Post 176 - attachment - pic43-free-img
+Inserted - Post 177 - attachment - pic44-free-img
+Inserted - Post 178 - attachment - pic45-free-img
+Inserted - Post 179 - attachment - pic46-free-img
+Inserted - Post 180 - attachment - try
+Inserted - Post 182 - attachment - pic48-free-img
+Inserted - Post 183 - attachment - pic49-free-img
+Inserted - Post 184 - attachment - pic50-free-img
+Inserted - Post 185 - attachment - pic51-free-img
+Inserted - Post 206 - attachment - chef01-free-img
+Inserted - Post 231 - attachment - old-typical-phone
+Inserted - Post 233 - attachment - pic62-free-img
+Inserted - Post 245 - attachment - yelp-free-img
+Inserted - Post 246 - attachment - tripadvisorlogo1-free-img
+Inserted - Post 248 - attachment - google-reviews-free-img
+Inserted - Post 250 - attachment - fb-free-imng
+Inserted - Post 252 - attachment - tweet-free-img
+Inserted - Post 266 - attachment - fresco-free-logo
+Inserted - Post 268 - attachment - favicon-free-img
+Inserted - Post 274 - attachment - italian-restaurant-facebook-yoast-free-img
+Inserted - Post 285 - custom_css - astra
+Inserted - Post 306 - attachment - Pasta
+Inserted - Post 321 - attachment - blog-bg-free-img
+Inserted - Post 550 - elementor-hf - Footer
+Inserted - Post 608 - attachment - food-table-meet
+Inserted - Post 610 - attachment - Menu-item-1
+Inserted - Post 612 - attachment - Menu-item-2
+Inserted - Post 613 - attachment - Menu-item-3
+Inserted - Post 614 - attachment - Menu-item-4
+Inserted - Post 617 - attachment - Pizza-slice
+Inserted - Post 619 - attachment - platter-img
+Inserted - Post 626 - attachment - About-us-banner
+Inserted - Post 629 - attachment - Serving-chef
+Inserted - Post 631 - attachment - Red-wine-img
+Inserted - Post 637 - attachment - Prepare-dish-img
+Inserted - Post 653 - attachment - about-image-01
+Inserted - Post 654 - attachment - about-image-02
+Inserted - Post 656 - attachment - baker-1620504_1920
+Inserted - Post 659 - attachment - fresco-pizza-top
+Inserted - Post 662 - attachment - dine-out
+Inserted - Post 676 - elementor_library - Default Kit
+Inserted - Post 681 - attachment - chef05-free-img
+Inserted - Post 684 - attachment - italian-social-01
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/italian-restaurant-02\/wp-content\/uploads\/sites\/283\/2018\/10\/fresco-free-logo.svg","nav_menu_locations":{"primary":"primary-menu","footer_menu":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#c66300","5":"#4054b2","6":"#ff770f","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 685 - attachment - fresco-free-logo
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Professional Business Website' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "550"
+---- Processing WordPress Page - for Elementor ---- "12"
+---- Processing WordPress Page - for Elementor ---- "11"
+---- Processing WordPress Page - for Elementor ---- "10"
+---- Processing WordPress Page - for Elementor ---- "5"
+---- Processing MISC ----
+Post ID: 17
+Post ID: 18
+Post ID: 19
+Post ID: 20
+Batch Process Complete!
